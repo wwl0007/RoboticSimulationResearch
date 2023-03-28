@@ -1,0 +1,6 @@
+[console_scripts]
+drive_ugv = nav_bot.drive_ugv:main
+find_goal = nav_bot.find_goal:main
+navigator = nav_bot.navigator:main
+video_saver = nav_bot.video_saver:main
+
